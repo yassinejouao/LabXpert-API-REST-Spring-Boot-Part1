@@ -242,7 +242,7 @@ public class LabxApplication implements CommandLineRunner {
 
 		// Create 2 analysis and add their own tests
 		Analysis analysisforpatient1 = new Analysis();
-		analysisforpatient1.setSample(Sampleforpatient2);
+		analysisforpatient1.setSample(Sampleforpatient1);
 		analysisforpatient1.setUser(technician);
 		analysisforpatient1.setPatient(patient1);
 		analysisforpatient1.setAnalysisType(diabeteAnalysisType);
