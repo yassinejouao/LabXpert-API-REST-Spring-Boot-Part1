@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Java 8 or later installed
+- Java 8 installed
 - Maven installed
 - Your favorite IDE (Eclipse, IntelliJ IDEA, etc.)
 
